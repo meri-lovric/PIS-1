@@ -6,5 +6,6 @@ namespace PIS1
 {
     class NewClass
     {
+    Console.WriteLine("Poz Meri");
     }
 }

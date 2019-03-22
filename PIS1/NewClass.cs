@@ -12,6 +12,6 @@ namespace PIS1
     }
     public void Nova()
     {
-
+        Console.WriteLine("Poz Meri jos jednom");
     }
 }

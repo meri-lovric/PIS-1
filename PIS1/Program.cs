@@ -12,3 +12,4 @@ namespace PIS1
     }
 }
 #komentar
+#stem?
